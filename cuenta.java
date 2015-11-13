@@ -1,5 +1,5 @@
-int result;
-for(int i=0; i <= 10; i++){
-result++;
+int result = 10;
+for(int i=10; i >= 0; i--){
+result--;
 }
 return res;
